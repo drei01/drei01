@@ -1,4 +1,4 @@
-Hi 👋 My name is Matthew Reid
+Hi 👋 My name is Matt
 =============================
 
 Full Stack Developer
