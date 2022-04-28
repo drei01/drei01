@@ -7,8 +7,8 @@ Full Stack Developer
 10 years experience
 
 * 🌍  I'm based in Berlin
-* 🖥️  See my portfolio at [matt-reid.co.uk](http://www.matt-reid.co.uk)
-* ✉️  You can contact me at [matt@matt-reid.co.uk](mailto:matt@matt-reid.co.uk)
+* 🖥️  Read my blog at [matt-reid.co.uk](http://www.matt-reid.co.uk)
+* ✉️  You can contact me at [matt [at] matt-reid.co.uk](mailto:matt@matt-reid.co.uk)
 * 🚀  I'm currently working on [PriceWell](http://pricewell.io)
 
 ### Skills
