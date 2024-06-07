@@ -9,7 +9,7 @@ Full Stack Developer
 * 🌍  I'm based in Berlin
 * 🖥️  Read my blog at [matt-reid.co.uk](http://www.matt-reid.co.uk)
 * ✉️  You can contact me at [matt [at] matt-reid.co.uk](mailto:matt@matt-reid.co.uk)
-* 🚀  I'm currently working on [PriceWell](http://pricewell.io)
+* 🚀  I'm currently working on [PriceWell](http://pricewell.com)
 
 ### Skills
 
